@@ -6,3 +6,4 @@ spring:
       server:
         git:
           uri: https://github.com/liyangmains/spring-cloud-config-server
+name: zhangsan
