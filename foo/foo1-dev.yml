@@ -13,4 +13,4 @@ spring:
       refreshable: none
 mybatis:
   mapper-locations: classpath*:com/ly/*/mapper/*.xml
-name: foo-dev666
+name: foo-dev888
